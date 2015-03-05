@@ -18,13 +18,17 @@ Example results
 
 Sperm cell photograph
 
+
 ![](examples/sperm.jpg)
+
 
 Cell length calculation
 
+
 ![](examples/screenshot.png)
+
 
 References
 -----------
 
-[http://creativefan.com/insane-animal-facts/](http://creativefan.com/insane-animal-facts/)
+[Fruit fly image](http://creativefan.com/insane-animal-facts/)
